@@ -17,3 +17,12 @@ h1, h3 + p {
     font-family: sans-serif;
     font-weight: bold;
 }
+
+header div {
+    margin: 1em 0;
+}
+
+h2 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
+}
